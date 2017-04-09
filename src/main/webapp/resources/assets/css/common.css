@@ -1,0 +1,77 @@
+body {
+	background-color: #f8f8f8;
+}
+
+.wrapper {
+	margin-top: 70px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form {
+	margin: 0 auto;
+	margin-top: 8em;
+}
+
+.overflow-initial {
+	overflow: initial;
+}
+
+.text-underline {
+	text-decoration: underline;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+
+.text-italic {
+	font-style: italic;
+}
+
+.font-size-1p5 {
+	font-size: 1.5rem !important;
+}
+
+.text-transform-none {
+	text-transform: none !important;
+}
+
+.resize-none {
+	resize: none;
+}
+
+.radioTable {
+	margin-top: 10px;
+}
+
+.word-break {
+	word-wrap: break-word;
+}
+
+/****** Media Query for Mobile Phones with max-width : 640px ******/
+@media ( max-width : 640px) {
+}
+
+/****** Media Query for Mobile Phones with min-width : 768 px  and max-width: 1024px ******/
+@media ( min-width : 768px) {
+
+}
+
+/****** Media Query for Mobile Phones with max-width : 360 px ******/
+@media ( max-width : 768px) {
+
+}
+
+@media ( max-width : 360px) {
+
+}
+
+/****** Media Query for Big Screens with min-width : 1600px ******/
+@media ( min-width : 1600px) {
+}
+
+.g-recaptcha > div {
+	margin: 0 auto;
+}
